@@ -1,0 +1,6 @@
+Ash: You've selected a normal human being. What would you like to do on your date?
+
+0) Confess your undying love
+1) Play hard-to-get
+2) Reveal your true face
+

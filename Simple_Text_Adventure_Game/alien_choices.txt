@@ -1,0 +1,9 @@
+Ash: You've selected the Alien. What would you like to do on your date?
+
+0) Confess your undying love
+1) Give him up to the authorities
+2) Help him get back home
+
+
+
+

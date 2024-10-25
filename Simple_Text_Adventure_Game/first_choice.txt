@@ -1,0 +1,7 @@
+Ash: Welcome to Cinder, the most popular dating app for interspecies and intergalactic romance! My name is Ash, and I will be your AI assistance on your journey to locating a suitable partner. Whether you're looking for a soulmate or just a century-long fling, we've got everything to suit your needs. Based on your profile, here are the following matches:
+
+0) Alien
+1) Literally Satan
+2) A normal human 
+3) None of the above
+
