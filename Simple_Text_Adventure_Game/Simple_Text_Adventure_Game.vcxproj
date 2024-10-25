@@ -129,6 +129,12 @@
   <ItemGroup>
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="Text_Game_Dialogue\alien_choices.txt" />
+    <Text Include="Text_Game_Dialogue\first_choice.txt" />
+    <Text Include="Text_Game_Dialogue\human_choices.txt" />
+    <Text Include="Text_Game_Dialogue\satan_choices.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
