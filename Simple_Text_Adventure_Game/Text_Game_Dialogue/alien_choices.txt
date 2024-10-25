@@ -1,0 +1,11 @@
+AI: You've selected the Alien. What would you like to do on your date?
+
+----------------------------------------------------------------------------------------------------------------------------------------
+AI: You choose to confess your undying love. You and the alien get married, have human-alien children, and live a pretty normal life. Not the most exciting thing, but hey! Sometimes that's life. 
+----------------------------------------------------------------------------------------------------------------------------------------
+AI: You choose to turn him over to the authorities. As men in black drag him away, he pierces your heart with a look of betrayal. You will never forget what you've done and you will never stop wondering what could have been.
+----------------------------------------------------------------------------------------------------------------------------------------
+AI: You choose to help the alien get back to his home planet. He thanks you profusely and departs. A few months later, he comes back with an army to destroy Earth and harvest its remains. Good job, you just doomed your the entire human race. Everyone is mad at you, but don't worry! They won't be around for much longer anyway!
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
